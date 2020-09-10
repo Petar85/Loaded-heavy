@@ -1,1 +1,2 @@
 # Loaded-heavy
+At the end I am satisfied how everything turned out. I have been struggling with grid layout and that's obvius, but I am getting there. Other thinggs like footer could be better but I wasted too much time with grid layout. All in all it's fun and I like doing it.
